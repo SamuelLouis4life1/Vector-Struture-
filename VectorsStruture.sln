@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vector1", "Vector1\Vector1.csproj", "{1A0B3359-14AB-4D9F-8D09-77891FBFDD1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector2", "Vector2\Vector2.csproj", "{50456977-8D59-4536-A6AB-7B2B8419559C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vector2", "Vector2\Vector2.csproj", "{50456977-8D59-4536-A6AB-7B2B8419559C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector3", "Vector3\Vector3.csproj", "{2164C32F-E6FD-441A-9A87-65901D40E314}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{50456977-8D59-4536-A6AB-7B2B8419559C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50456977-8D59-4536-A6AB-7B2B8419559C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50456977-8D59-4536-A6AB-7B2B8419559C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2164C32F-E6FD-441A-9A87-65901D40E314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2164C32F-E6FD-441A-9A87-65901D40E314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2164C32F-E6FD-441A-9A87-65901D40E314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2164C32F-E6FD-441A-9A87-65901D40E314}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
