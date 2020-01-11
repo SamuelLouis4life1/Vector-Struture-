@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Globalization;
 
+/// <summary>
+/// a program that that reads N integer numbers then shows to the screen the average of the number
+/// </summary>
+
 namespace Vertor5
 {
     class Program
